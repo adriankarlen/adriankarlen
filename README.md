@@ -1,4 +1,6 @@
-🕵️ part of private web
+📄 digi docs developer
+
+🕵️ ex private web developer
 
 💻 consultant via Viati
 
