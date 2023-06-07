@@ -1,14 +1,13 @@
 <h1>Adrian Karlén 👋</h1>
-<p st>
-📄 digi docs developer
+<p>
+  I like building stuff.
 </p>
 <p>
-🕵️ ex private web developer
+  💻 Consultant @ Viati
 </p>
 <p>
-💻 consultant <a href="https://viati.se">@Viati</a>
+  🏢 Current client SPP
 </p>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/github-contribution-grid-snake.svg">
