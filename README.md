@@ -7,7 +7,9 @@
 
 ### :man_technologist: About Me :
 
--   :telescope: I’m working as a Software Developer Viati
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
+
+-   :telescope: I’m working as a Software Developer at Viati
 
 -   :seedling: Exploring new technologies
 
