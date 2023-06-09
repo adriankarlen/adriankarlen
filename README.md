@@ -1,25 +1,19 @@
 <div id="header" align="center">  
   <h1>
-    hello there
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    hello there 👋
   </h1>
 </div>
 
-### :man_technologist: About Me :
+### 👨‍💻 About Me
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Sweden.
-
--   :telescope: I’m working as a Software Developer at Viati
-
--   :seedling: Exploring new technologies
-
--   :zap: In my free time, I like to play boardgames and play golf.
-
+-   🔭: Software Developer @Viati
+-   ⚽: Hammarby IF
+-   🏈: Kansas City Chiefs
 -   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-karlen/)
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### 🛠️ Languages and Tools
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -34,7 +28,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### :fire: My Stats :
+### 🔥 My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adriankarlen&theme=dark&background=1e1e2e)](https://git.io/streak-stats)
 
