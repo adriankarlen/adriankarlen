@@ -26,8 +26,10 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/ctp-mocha.gif?color_snake=#cba6f7&color_dots=#313244,#f38ba8,#fab387,#f9e2af,#a6e3a1
-            dist/ctp-latte.gif?color_snake=#8839ef&color_dots=#ccd0da,#d20f39,#fe640b,#df8e1d,#40a02b
+            dist/ctp-mocha.svg?color_snake=#cba6f7&color_dots=#313244,#f38ba8,#fab387,#f9e2af,#a6e3a1
+            dist/ctp-latte.svg?color_snake=#8839ef&color_dots=#ccd0da,#d20f39,#fe640b,#df8e1d,#40a02b
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
