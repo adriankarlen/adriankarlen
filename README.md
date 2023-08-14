@@ -35,7 +35,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankarlen&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/ctp-mocha.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/ctp-latte.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/ctp-mocha.svg">
 </picture>
