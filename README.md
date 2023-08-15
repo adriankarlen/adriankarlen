@@ -29,8 +29,7 @@
 ---
 
 ### 🔥 My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adriankarlen&theme=dark&background=1e1e2e)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adriankarlen&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&border=CBA6F7&background=1E1E2E00)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankarlen&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
