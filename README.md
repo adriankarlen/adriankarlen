@@ -29,9 +29,9 @@
 ---
 
 ### 🔥 My Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=adriankarlen&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&border=CBA6F7&background=1E1E2E00)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=adriankarlen&theme=catppuccin-mocha&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&border=CBA6F7&background=00000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankarlen&layout=compact&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankarlen&layout=compact&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/ctp-mocha.svg">
