@@ -30,7 +30,6 @@
 
 ### 🔥 My Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=adriankarlen&theme=catppuccin-mocha&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat&background=00000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriankarlen&layout=compact&bg_color=00000000&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5&border_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
 
 <picture>
