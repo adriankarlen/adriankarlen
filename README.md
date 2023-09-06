@@ -6,10 +6,10 @@
 
 ### 👨‍💻 About Me
 
--   🔭: Software Developer @Viati
--   ⚽: Hammarby IF
--   🏈: Kansas City Chiefs
--   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-karlen/)
+-   🔭 Software Developer @Viati
+-   ⚽ Hammarby IF
+-   🏈 Kansas City Chiefs
+-   📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-karlen/)
 
 ---
 
