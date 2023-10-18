@@ -28,6 +28,7 @@ jobs:
           outputs: |
             dist/ctp-mocha.svg?color_snake=#cba6f7&color_dots=#313244,#74c7ec,#89dceb,#94e2d5,#a6e3a1
             dist/ctp-latte.svg?color_snake=#8839ef&color_dots=#ccd0da,#04a5e5,#179299,#209fb5,#40a02b
+            dist/rp.svg?color_snake=#31748f&color_dots=#21202e,#e0def4,#ebbcba,#eb6f92,#f6c177
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
