@@ -26,7 +26,8 @@ jobs:
                   outputs: |
                       dist/ctp-mocha.svg?color_snake=#cba6f7&color_dots=#313244,#74c7ec,#89dceb,#94e2d5,#a6e3a1
                       dist/ctp-latte.svg?color_snake=#8839ef&color_dots=#ccd0da,#04a5e5,#179299,#209fb5,#40a02b
-                      dist/rp.svg?color_snake=#31748f&color_dots=color-mix(in srgb, #f6c177 25%, transparent),color-mix(in srgb, #f6c177 50%, transparent),color-mix(in srgb, #f6c177 75%, transparent),#f6c177
+                      dist/rp.svg?color_snake=#31748f&color_dots=#403d52,#9ccfd8,#ebbcba,#eb6f92,#f6c177
+                      dist/rp-dawn.svg?color_snake=#286983&color_dots=#dfdad9,#56949f,#d7827e,#b4637a,#ea9d34
 
               env:
                   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
