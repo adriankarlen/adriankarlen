@@ -1,13 +1,3 @@
-<div id="header" align="center">  
-  <h1>
-    <a href="https://adriankarlen.dev">
-      hello there 👋
-    </a>
-  </h1>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/rp.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/rp-dawn.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adriankarlen-spp/adriankarlen-spp/output/rp.svg">
-</picture>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZnNThlajJhdDNwcjMybmYyeWl4NmVjeWZwMG84bDdncDI5bTZldyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.webp" />
+</p>
